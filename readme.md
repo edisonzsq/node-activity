@@ -5,12 +5,20 @@ Linux: https://github.com/nvm-sh/nvm <br>
 Windows: https://github.com/coreybutler/nvm-windows
 
 <br>
-Through NVM, install Node version v14.15.4 using these commands:<br>
+Through NVM, install Node version v14.15.4 using these commands on your command-line(Windows) or terminal(Linux):<br>
 
 ```shell
 nvm install v14.15.4
 nvm use v14.15.4 
 ```
+
+Ensure that your NPM is able to install modules from online repository. Use the following command to install pm2 globally.
+```shell
+npm install -g pm2
+pm2 --version
+```
+You should see pm2's version printed on your console.
+
 <br><br>
 ## Activity Objectives ##
 
