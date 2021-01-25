@@ -1,0 +1,23 @@
+{
+  "name": "activity",
+  "version": "1.0.0",
+  "description": "Install Node Version Manager <br> Linux: https://github.com/nvm-sh/nvm <br> Windows: https://github.com/coreybutler/nvm-windows",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edisonzsq/node-activity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edisonzsq/node-activity/issues"
+  },
+  "homepage": "https://github.com/edisonzsq/node-activity#readme"
+}
