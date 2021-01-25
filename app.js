@@ -1,1 +1,0 @@
-console.log('Hello, welcome to SD-43 Node.js activity!')
